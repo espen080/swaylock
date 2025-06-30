@@ -1,0 +1,3 @@
+image=~/.config/sway/ubuntu_bg.png
+show-keyboard-layout=1
+indicator-idle-visible=1
